@@ -1,6 +1,6 @@
 # Hi, I'm Paul 👋
 
-I run brand, website and partly growth at [Aampere](https://www.aampere.com) in Munich.
+I work on brand, website and partly growth at [Aampere](https://www.aampere.com) in Munich.
 We help people sell their used electric car.
 
 I'm also building [The Software Company](https://thesoftware.company) with [@louis-sicko](https://github.com/louis-sicko).
