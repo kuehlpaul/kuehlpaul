@@ -22,7 +22,3 @@ video editing, and a wiki that holds it all together. Some of it is open source:
 - **Marketing:** Webflow · PostHog · Ahrefs · Make
 - **AI media:** ElevenLabs · Gemini · Kling (fal.ai) · Higgsfield
 - **Organizing:** Notion · Linear · Obsidian
-
-### Elsewhere
-
-[aampere.com](https://www.aampere.com) · [thesoftware.company](https://thesoftware.company)
