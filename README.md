@@ -17,7 +17,11 @@ video editing, and a wiki that holds it all together. Some of it is open source:
 
 ### Tools I use a lot
 
-Claude Code · Remotion · SvelteKit · Webflow · PostHog · Cloudflare Workers · Node
+- **Build:** Claude Code · SvelteKit · Astro · Cloudflare Workers · Node · Bun · Remotion
+- **Design:** Figma · Paper · Affinity
+- **Marketing:** Webflow · PostHog · Ahrefs · Make
+- **AI media:** ElevenLabs · Gemini · Kling (fal.ai) · Higgsfield
+- **Organizing:** Notion · Linear · Obsidian
 
 ### Elsewhere
 
